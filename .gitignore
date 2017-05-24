@@ -10,7 +10,9 @@ local.properties
 .loadpath
 .recommenders
 
-*.png
+og*
+copy*
+
 
 # External tool builders
 .externalToolBuilders/
